@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/janhvviikumar/Pythonsolve/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/janhvviikumar/Pythonsolve/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/janhvviikumar/Pythonsolve/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/janhvviikumar/Pythonsolve/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/janhvviikumar/Pythonsolve/tree/master/0183-customers-who-never-order) |
 | [1908-recyclable-and-low-fat-products](https://github.com/janhvviikumar/Pythonsolve/tree/master/1908-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/janhvviikumar/Pythonsolve/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
