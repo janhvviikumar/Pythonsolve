@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/janhvviikumar/Pythonsolve/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/janhvviikumar/Pythonsolve/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/janhvviikumar/Pythonsolve/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/janhvviikumar/Pythonsolve/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
