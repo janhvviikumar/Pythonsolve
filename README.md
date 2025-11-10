@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/janhvviikumar/Pythonsolve/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/janhvviikumar/Pythonsolve/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3811-reverse-degree-of-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/3811-reverse-degree-of-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
