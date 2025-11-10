@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/janhvviikumar/Pythonsolve/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/janhvviikumar/Pythonsolve/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/janhvviikumar/Pythonsolve/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/janhvviikumar/Pythonsolve/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/janhvviikumar/Pythonsolve/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/janhvviikumar/Pythonsolve/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/janhvviikumar/Pythonsolve/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -60,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/janhvviikumar/Pythonsolve/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/janhvviikumar/Pythonsolve/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -73,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
