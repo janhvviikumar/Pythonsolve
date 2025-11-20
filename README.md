@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/janhvviikumar/Pythonsolve/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/janhvviikumar/Pythonsolve/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/janhvviikumar/Pythonsolve/tree/master/0496-next-greater-element-i) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/janhvviikumar/Pythonsolve/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/janhvviikumar/Pythonsolve/tree/master/0496-next-greater-element-i) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/janhvviikumar/Pythonsolve/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/janhvviikumar/Pythonsolve/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
