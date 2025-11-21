@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/janhvviikumar/Pythonsolve/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janhvviikumar/Pythonsolve/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/janhvviikumar/Pythonsolve/tree/master/1688-count-of-matches-in-tournament) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/janhvviikumar/Pythonsolve/tree/master/1688-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3811-reverse-degree-of-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/3811-reverse-degree-of-a-string) |
 ## Bit Manipulation
