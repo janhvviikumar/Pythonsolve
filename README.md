@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/janhvviikumar/Pythonsolve/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/janhvviikumar/Pythonsolve/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/janhvviikumar/Pythonsolve/tree/master/0496-next-greater-element-i) |
 | [1287-distance-between-bus-stops](https://github.com/janhvviikumar/Pythonsolve/tree/master/1287-distance-between-bus-stops) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/janhvviikumar/Pythonsolve/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/janhvviikumar/Pythonsolve/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0414-third-maximum-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
