@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-distance-between-bus-stops](https://github.com/janhvviikumar/Pythonsolve/tree/master/1287-distance-between-bus-stops) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janhvviikumar/Pythonsolve/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/janhvviikumar/Pythonsolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janhvviikumar/Pythonsolve/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/janhvviikumar/Pythonsolve/tree/master/1688-count-of-matches-in-tournament) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/janhvviikumar/Pythonsolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
