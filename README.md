@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/janhvviikumar/Pythonsolve/tree/master/1732-find-the-highest-altitude) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/janhvviikumar/Pythonsolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3668-restore-finishing-order](https://github.com/janhvviikumar/Pythonsolve/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/janhvviikumar/Pythonsolve/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/janhvviikumar/Pythonsolve/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3668-restore-finishing-order](https://github.com/janhvviikumar/Pythonsolve/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
