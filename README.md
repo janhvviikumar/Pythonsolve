@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janhvviikumar/Pythonsolve/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1732-find-the-highest-altitude](https://github.com/janhvviikumar/Pythonsolve/tree/master/1732-find-the-highest-altitude) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2942-find-words-containing-character](https://github.com/janhvviikumar/Pythonsolve/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/janhvviikumar/Pythonsolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/janhvviikumar/Pythonsolve/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/janhvviikumar/Pythonsolve/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/janhvviikumar/Pythonsolve/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/0345-reverse-vowels-of-a-string) |
+| [2942-find-words-containing-character](https://github.com/janhvviikumar/Pythonsolve/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/3110-score-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/3811-reverse-degree-of-a-string) |
 ## Trie
