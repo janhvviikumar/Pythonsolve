@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/janhvviikumar/Pythonsolve/tree/master/0496-next-greater-element-i) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/janhvviikumar/Pythonsolve/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1287-distance-between-bus-stops](https://github.com/janhvviikumar/Pythonsolve/tree/master/1287-distance-between-bus-stops) |
+| [1313-decompress-run-length-encoded-list](https://github.com/janhvviikumar/Pythonsolve/tree/master/1313-decompress-run-length-encoded-list) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janhvviikumar/Pythonsolve/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1732-find-the-highest-altitude](https://github.com/janhvviikumar/Pythonsolve/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/1929-concatenation-of-array) |
