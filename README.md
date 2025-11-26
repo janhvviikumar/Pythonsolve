@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/janhvviikumar/Pythonsolve/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1287-distance-between-bus-stops](https://github.com/janhvviikumar/Pythonsolve/tree/master/1287-distance-between-bus-stops) |
 | [1313-decompress-run-length-encoded-list](https://github.com/janhvviikumar/Pythonsolve/tree/master/1313-decompress-run-length-encoded-list) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janhvviikumar/Pythonsolve/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1732-find-the-highest-altitude](https://github.com/janhvviikumar/Pythonsolve/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/1929-concatenation-of-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/janhvviikumar/Pythonsolve/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/janhvviikumar/Pythonsolve/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3668-restore-finishing-order](https://github.com/janhvviikumar/Pythonsolve/tree/master/3668-restore-finishing-order) |
 ## Math
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/janhvviikumar/Pythonsolve/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0414-third-maximum-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
