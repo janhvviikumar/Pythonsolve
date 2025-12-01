@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-distance-between-bus-stops](https://github.com/janhvviikumar/Pythonsolve/tree/master/1287-distance-between-bus-stops) |
 | [1313-decompress-run-length-encoded-list](https://github.com/janhvviikumar/Pythonsolve/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/janhvviikumar/Pythonsolve/tree/master/1389-create-target-array-in-the-given-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janhvviikumar/Pythonsolve/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1732-find-the-highest-altitude](https://github.com/janhvviikumar/Pythonsolve/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/1929-concatenation-of-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/janhvviikumar/Pythonsolve/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/janhvviikumar/Pythonsolve/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
