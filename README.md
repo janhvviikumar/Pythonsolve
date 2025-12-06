@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/janhvviikumar/Pythonsolve/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/janhvviikumar/Pythonsolve/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/janhvviikumar/Pythonsolve/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/janhvviikumar/Pythonsolve/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2942-find-words-containing-character](https://github.com/janhvviikumar/Pythonsolve/tree/master/2942-find-words-containing-character) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/janhvviikumar/Pythonsolve/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/janhvviikumar/Pythonsolve/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/janhvviikumar/Pythonsolve/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/janhvviikumar/Pythonsolve/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/3110-score-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/3811-reverse-degree-of-a-string) |
