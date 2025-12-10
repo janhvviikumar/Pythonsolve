@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/janhvviikumar/Pythonsolve/tree/master/3285-find-indices-of-stable-mountains) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/janhvviikumar/Pythonsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3668-restore-finishing-order](https://github.com/janhvviikumar/Pythonsolve/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/janhvviikumar/Pythonsolve/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/janhvviikumar/Pythonsolve/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3701-compute-alternating-sum](https://github.com/janhvviikumar/Pythonsolve/tree/master/3701-compute-alternating-sum) |
 | [3811-reverse-degree-of-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/3811-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
