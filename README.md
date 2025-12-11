@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/janhvviikumar/Pythonsolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/janhvviikumar/Pythonsolve/tree/master/3285-find-indices-of-stable-mountains) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/janhvviikumar/Pythonsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/janhvviikumar/Pythonsolve/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/janhvviikumar/Pythonsolve/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/janhvviikumar/Pythonsolve/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/janhvviikumar/Pythonsolve/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/janhvviikumar/Pythonsolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/janhvviikumar/Pythonsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/janhvviikumar/Pythonsolve/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
