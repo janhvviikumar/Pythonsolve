@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/janhvviikumar/Pythonsolve/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/janhvviikumar/Pythonsolve/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/janhvviikumar/Pythonsolve/tree/master/3285-find-indices-of-stable-mountains) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/janhvviikumar/Pythonsolve/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/janhvviikumar/Pythonsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/janhvviikumar/Pythonsolve/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/janhvviikumar/Pythonsolve/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/janhvviikumar/Pythonsolve/tree/master/1732-find-the-highest-altitude) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/janhvviikumar/Pythonsolve/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/janhvviikumar/Pythonsolve/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
