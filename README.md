@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/janhvviikumar/Pythonsolve/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/janhvviikumar/Pythonsolve/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/janhvviikumar/Pythonsolve/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/janhvviikumar/Pythonsolve/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0509-fibonacci-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/janhvviikumar/Pythonsolve/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/janhvviikumar/Pythonsolve/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/janhvviikumar/Pythonsolve/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/janhvviikumar/Pythonsolve/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/0345-reverse-vowels-of-a-string) |
 | [1528-shuffle-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/1528-shuffle-string) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/janhvviikumar/Pythonsolve/tree/master/0067-add-binary) |
 | [1389-create-target-array-in-the-given-order](https://github.com/janhvviikumar/Pythonsolve/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/janhvviikumar/Pythonsolve/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/1929-concatenation-of-array) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/janhvviikumar/Pythonsolve/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/janhvviikumar/Pythonsolve/tree/master/1018-binary-prefix-divisible-by-5) |
