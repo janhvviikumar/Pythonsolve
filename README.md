@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/janhvviikumar/Pythonsolve/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/janhvviikumar/Pythonsolve/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/janhvviikumar/Pythonsolve/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/janhvviikumar/Pythonsolve/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janhvviikumar/Pythonsolve/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/janhvviikumar/Pythonsolve/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/janhvviikumar/Pythonsolve/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/janhvviikumar/Pythonsolve/tree/master/0415-add-strings) |
 | [1528-shuffle-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/janhvviikumar/Pythonsolve/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/janhvviikumar/Pythonsolve/tree/master/1773-count-items-matching-a-rule) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/janhvviikumar/Pythonsolve/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/janhvviikumar/Pythonsolve/tree/master/0415-add-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/janhvviikumar/Pythonsolve/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/janhvviikumar/Pythonsolve/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/1929-concatenation-of-array) |
