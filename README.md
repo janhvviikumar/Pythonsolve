@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/janhvviikumar/Pythonsolve/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/janhvviikumar/Pythonsolve/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/janhvviikumar/Pythonsolve/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/janhvviikumar/Pythonsolve/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/janhvviikumar/Pythonsolve/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/janhvviikumar/Pythonsolve/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/janhvviikumar/Pythonsolve/tree/master/1816-truncate-sentence) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/janhvviikumar/Pythonsolve/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/janhvviikumar/Pythonsolve/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/janhvviikumar/Pythonsolve/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/3110-score-of-a-string) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/janhvviikumar/Pythonsolve/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/janhvviikumar/Pythonsolve/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/janhvviikumar/Pythonsolve/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3701-compute-alternating-sum](https://github.com/janhvviikumar/Pythonsolve/tree/master/3701-compute-alternating-sum) |
 | [3811-reverse-degree-of-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/3811-reverse-degree-of-a-string) |
