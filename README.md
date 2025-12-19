@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/janhvviikumar/Pythonsolve/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/janhvviikumar/Pythonsolve/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/janhvviikumar/Pythonsolve/tree/master/1816-truncate-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/janhvviikumar/Pythonsolve/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/janhvviikumar/Pythonsolve/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/janhvviikumar/Pythonsolve/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/janhvviikumar/Pythonsolve/tree/master/2942-find-words-containing-character) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/janhvviikumar/Pythonsolve/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/janhvviikumar/Pythonsolve/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2000-reverse-prefix-of-word](https://github.com/janhvviikumar/Pythonsolve/tree/master/2000-reverse-prefix-of-word) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/janhvviikumar/Pythonsolve/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/janhvviikumar/Pythonsolve/tree/master/0496-next-greater-element-i) |
+| [2000-reverse-prefix-of-word](https://github.com/janhvviikumar/Pythonsolve/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
