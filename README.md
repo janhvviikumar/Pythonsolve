@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/janhvviikumar/Pythonsolve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/janhvviikumar/Pythonsolve/tree/master/0496-next-greater-element-i) |
+| [0944-delete-columns-to-make-sorted](https://github.com/janhvviikumar/Pythonsolve/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/janhvviikumar/Pythonsolve/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1287-distance-between-bus-stops](https://github.com/janhvviikumar/Pythonsolve/tree/master/1287-distance-between-bus-stops) |
 | [1313-decompress-run-length-encoded-list](https://github.com/janhvviikumar/Pythonsolve/tree/master/1313-decompress-run-length-encoded-list) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/janhvviikumar/Pythonsolve/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/janhvviikumar/Pythonsolve/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0944-delete-columns-to-make-sorted](https://github.com/janhvviikumar/Pythonsolve/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/janhvviikumar/Pythonsolve/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/janhvviikumar/Pythonsolve/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
