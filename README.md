@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/janhvviikumar/Pythonsolve/tree/master/0496-next-greater-element-i) |
 | [0804-unique-morse-code-words](https://github.com/janhvviikumar/Pythonsolve/tree/master/0804-unique-morse-code-words) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/janhvviikumar/Pythonsolve/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/janhvviikumar/Pythonsolve/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/janhvviikumar/Pythonsolve/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/janhvviikumar/Pythonsolve/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/janhvviikumar/Pythonsolve/tree/master/0804-unique-morse-code-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/janhvviikumar/Pythonsolve/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/janhvviikumar/Pythonsolve/tree/master/1108-defanging-an-ip-address) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/janhvviikumar/Pythonsolve/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/janhvviikumar/Pythonsolve/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/janhvviikumar/Pythonsolve/tree/master/1678-goal-parser-interpretation) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/janhvviikumar/Pythonsolve/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/janhvviikumar/Pythonsolve/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/janhvviikumar/Pythonsolve/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
