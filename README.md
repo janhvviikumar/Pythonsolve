@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/janhvviikumar/Pythonsolve/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/janhvviikumar/Pythonsolve/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/janhvviikumar/Pythonsolve/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/janhvviikumar/Pythonsolve/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/janhvviikumar/Pythonsolve/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/janhvviikumar/Pythonsolve/tree/master/1816-truncate-sentence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/janhvviikumar/Pythonsolve/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/janhvviikumar/Pythonsolve/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/janhvviikumar/Pythonsolve/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/janhvviikumar/Pythonsolve/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/janhvviikumar/Pythonsolve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/janhvviikumar/Pythonsolve/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/janhvviikumar/Pythonsolve/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/janhvviikumar/Pythonsolve/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/janhvviikumar/Pythonsolve/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/janhvviikumar/Pythonsolve/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/janhvviikumar/Pythonsolve/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/janhvviikumar/Pythonsolve/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/janhvviikumar/Pythonsolve/tree/master/2000-reverse-prefix-of-word) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/janhvviikumar/Pythonsolve/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/janhvviikumar/Pythonsolve/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
 | ------- |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/janhvviikumar/Pythonsolve/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janhvviikumar/Pythonsolve/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/janhvviikumar/Pythonsolve/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/janhvviikumar/Pythonsolve/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/janhvviikumar/Pythonsolve/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3467-transform-array-by-parity](https://github.com/janhvviikumar/Pythonsolve/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/janhvviikumar/Pythonsolve/tree/master/3541-find-most-frequent-vowel-and-consonant) |
