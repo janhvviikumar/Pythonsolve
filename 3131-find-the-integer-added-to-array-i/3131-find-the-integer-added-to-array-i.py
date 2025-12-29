@@ -1,0 +1,9 @@
+class Solution:
+    def addedInteger(self, nums1: List[int], nums2: List[int]) -> int:
+        nums1.sort()
+        nums2.sort()
+        k=0
+        for i in range(len(nums1)):
+            k=nums2[i]-nums1[i]
+        return k
+        
