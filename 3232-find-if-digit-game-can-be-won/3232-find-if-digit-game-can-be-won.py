@@ -8,7 +8,7 @@ class Solution:
                 single+=elem
             else:
                 doubl+=elem
-        a=True if doubl!=single else False
-        return a
+        
+        return True if doubl!=single else False
 
         
